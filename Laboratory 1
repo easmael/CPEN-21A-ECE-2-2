@@ -1,1 +1,6 @@
 print("Welcome to Python Programming")
+name=str(input("Input your Name: "))
+age=int(input("Input your Age: "))
+add=input("Input your Address: ")
+
+print("My name is"+ name,age,"years old","living in", add)
