@@ -1,2 +1,1 @@
-if 6<10:
-  print("six is less than 10")
+print("Welcome to Python Programming")
